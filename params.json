@@ -1,0 +1,6 @@
+{
+  "name": "Utilities to make Practice-Web EMR even better",
+  "tagline": "Practice-Web EMR",
+  "body": "Utilities to make Practice-Web EMR even better\r\n\r\nPractice-Web is Dental office practice management software based on .NET technology. This software has been developed on open-source \"Open Dental\" platform.\r\n\r\nPractice-Web is using mySQL as its main database. It has been very easy to connect and build missing reports as well as to build data visualization.\r\n\r\nThis project is not meant to replace core functionality of Practice-Web but rather enhance it with reports and charts useful in analyzing patient and financial data.\r\n\r\nI plan to publish scripts and report builders which I have found useful in analyzing busy dental practice in San Francisco.\r\n\r\nFeel free to contact me with any questions. I am also available for consulting.\r\n\r\nDmitry Yesin [dyesin@gmail.com](mailto:dyesin@gmail.com)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
